@@ -10,7 +10,6 @@
 5. Legal & Compliance Issues – Many projects have contractual obligations with penalties for late delivery. Regulatory deadlines may also apply.
 -How Project Managers Can Ensure Deadlines Are Met
 1. Clear Planning & Scope Definition
-
 -Use a well-defined Software Development Life Cycle (SDLC) approach (Agile, Scrum, Waterfall, etc.).
 -Define the scope, objectives, deliverables, and success criteria early.
 -Break down the project into manageable tasks with clear timelines (Work Breakdown Structure).
